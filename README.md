@@ -1,4 +1,8 @@
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/84824883/202413643-59db0b20-2618-4f6f-96cd-c119248ffc6e.png"></img>
+</div>
+
 
 ## Welcome to my github page！
 
@@ -33,9 +37,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/84824883/202413643-59db0b20-2618-4f6f-96cd-c119248ffc6e.png"></img>
-</div>
 
 ### 开源项目
 - [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
