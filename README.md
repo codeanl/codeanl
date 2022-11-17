@@ -39,7 +39,10 @@
 
 
 ### 开源项目
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
+- [啥也没有]
+<!-- 
+[基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
+-->
 
 ###
 ---
