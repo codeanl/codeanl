@@ -41,11 +41,7 @@
 - [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
 
 
-<div style="float:left;width:40%;">
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=codeanl&show_icons=true&theme=dark&count_private=true)
-</div>
-<div style="float:right;width:40%;">
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeanl&theme=dark&layout=compact)
-</div>
 
 
