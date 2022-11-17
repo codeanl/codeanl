@@ -12,6 +12,12 @@
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/codeanl/codeanl/assets/github-contribution-grid-snake.svg" /></div>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=codeanl&show_icons=true&theme=dark&count_private=true)
+
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeanl&theme=dark&layout=compact)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
