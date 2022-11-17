@@ -5,7 +5,8 @@
 
 **codeanl/codeanl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://raw.githubusercontent.com/codeanl/codeanl/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/这里更换为你的 GitHub ID/这里更换为你的 GitHub ID/main/assets/github-contribution-grid-snake.svg)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
