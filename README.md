@@ -17,9 +17,6 @@
 - ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 技术栈 | Tech Stack
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/84824883/202413643-59db0b20-2618-4f6f-96cd-c119248ffc6e.png"></img>
-</div>
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FCC624)
 ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=Golang&logoColor=FCC624)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
@@ -35,6 +32,10 @@
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/84824883/202413643-59db0b20-2618-4f6f-96cd-c119248ffc6e.png"></img>
+</div>
 
 ### 开源项目
 - [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
