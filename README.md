@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="ttps://user-images.githubusercontent.com/84824883/202413643-59db0b20-2618-4f6f-96cd-c119248ffc6e.png"></img>
+  <img src="https://user-images.githubusercontent.com/84824883/202413643-59db0b20-2618-4f6f-96cd-c119248ffc6e.png"></img>
 </div>
 
 **codeanl/codeanl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
