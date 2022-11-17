@@ -20,8 +20,8 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; ![Java]
-![Golang]
+- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FCC624)
+![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=Golang&logoColor=FCC624)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 
 - 🌐 &#160; 
