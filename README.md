@@ -6,6 +6,10 @@
 ---
 <img align="right" width=45% alt="GIF" src="https://user-images.githubusercontent.com/84824883/202413915-8bc84d26-c7f0-43d4-aef9-10b997090098.gif" />
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/84824883/202413643-59db0b20-2618-4f6f-96cd-c119248ffc6e.png"></img>
+</div>
+
 ### I'm Jiaanliao
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
@@ -39,9 +43,7 @@
   <img src="https://user-images.githubusercontent.com/84824883/202413915-8bc84d26-c7f0-43d4-aef9-10b997090098.gif"></img>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/84824883/202413643-59db0b20-2618-4f6f-96cd-c119248ffc6e.png"></img>
-</div>
+
 
 **codeanl/codeanl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
