@@ -6,7 +6,7 @@
 
 ## Welcome to my github page！
 
-[![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
+[![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-00000005-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
 [![Mail Badge](https://img.shields.io/badge/-2633262862@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:2633262862@qq.com)](mailto:joeysiwei@gmail.com)
 ---
 <img align="right" width=45% alt="GIF" src="https://user-images.githubusercontent.com/84824883/202413915-8bc84d26-c7f0-43d4-aef9-10b997090098.gif" />
