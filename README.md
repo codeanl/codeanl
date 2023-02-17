@@ -10,7 +10,7 @@
 <img align="right" width=45% alt="GIF" src="https://user-images.githubusercontent.com/84824883/202413915-8bc84d26-c7f0-43d4-aef9-10b997090098.gif" />
 
 
-### I'm Jiaanliao
+### I'm codeanl
 
 - A Computer Engineering Undergraduate Student, & Open Source enthusiast.
 - 🌱 I'm currently a junior.
