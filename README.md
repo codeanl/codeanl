@@ -16,7 +16,7 @@
 - 🌱 I'm currently a junior.
 - 💬 Ask me about Golang, Vue ，Flutter and my projects on [2633262862@qq.com](mailto:2633262862@qq.com)
 - 📖I am currently learning Golang ,Vue and Flutter.
-- ⚡ Fun fact: Data Analysis📊
+- ⚡ Fun fact: Game📊
 
 ### 🛠 技术栈 | Tech Stack
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FCC624)
